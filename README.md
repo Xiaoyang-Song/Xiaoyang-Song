@@ -6,7 +6,7 @@ If you are interested in contacting me, I can always be reach by email at xs2485
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Xiaoyang-Song&theme=synthwave&show_icons=true&count_private=true)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Xiaoyang-Song&langs_count=10&layout=compact&theme=monokai&hide=jupyter%20notebook&count_private=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Xiaoyang-Song&langs_count=10&layout=compact&theme=highcontrast&hide=jupyter%20notebook&count_private=true)
 
 <!---
 Xiaoyang-Song/Xiaoyang-Song is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
