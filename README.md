@@ -4,9 +4,12 @@ My goal is to research on the cutting‐edge theories and methodologies in the f
 
 If you are interested in contacting me, I can always be reach by email at xs2485@columbia.edu.
 
-![Github stats](https://github-readme-stats-deployment-am2maec86-xiaoyang-song.vercel.app/api?username=Xiaoyang-Song&theme=synthwave&show_icons=true&count_private=true)
-
-![Top Languages Card](https://github-readme-stats-deployment-am2maec86-xiaoyang-song.vercel.app/api/top-langs/?username=Xiaoyang-Song&langs_count=15&layout=compact&theme=highcontrast&hide=jupyter%20notebook&count_private=true)
+<div class='container'>
+<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats-deployment-am2maec86-xiaoyang-song.vercel.app/api?username=Xiaoyang-Song&theme=synthwave&show_icons=true&count_private=true" />
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats-deployment-am2maec86-xiaoyang-song.vercel.app/api/top-langs/?username=Xiaoyang-Song&langs_count=8&layout=compact&theme=highcontrast&hide=jupyter%20notebook,makefile,shaderlab&count_private=true" /></div>
+</div>
 
 <!---
 Xiaoyang-Song/Xiaoyang-Song is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
