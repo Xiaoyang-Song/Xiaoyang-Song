@@ -11,6 +11,8 @@ If you are interested in contacting me, I can always be reach by email at xs2485
 <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats-deployment-am2maec86-xiaoyang-song.vercel.app/api/top-langs/?username=Xiaoyang-Song&langs_count=8&layout=compact&theme=highcontrast&hide=jupyter%20notebook,makefile,shaderlab&count_private=true" /></div>
 </div>
 
+[![Xiaoyang's wakatime stats]([https://github-readme-stats.vercel.app](https://github-readme-stats-deployment-am2maec86-xiaoyang-song.vercel.app)/api/wakatime?username=Xiaoyang-Song)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 Xiaoyang-Song/Xiaoyang-Song is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
