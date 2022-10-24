@@ -12,7 +12,7 @@ If you are interested in contacting me, I can always be reach by email at xs2485
 </div>
 
 <p align="center">
- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=xysong25&theme=tokyonight" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=xysong25&theme=tokyonight&v=2" />
 </p>
 <!---
 Xiaoyang-Song/Xiaoyang-Song is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
