@@ -4,7 +4,7 @@ My goal is to research on the cutting‐edge theories and methodologies in the f
 
 If you are interested in contacting me, I can always be reach by email at xs2485@columbia.edu.
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada&layout=compact)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Xiaoyang-Song&layout=compact&theme=monokai)
 
 <!---
 Xiaoyang-Song/Xiaoyang-Song is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
