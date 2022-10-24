@@ -5,14 +5,15 @@ My goal is to research on the cutting‐edge theories and methodologies in the f
 If you are interested in contacting me, I can always be reach by email at xs2485@columbia.edu.
 
 <div class='container'>
-<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats-deployment-am2maec86-xiaoyang-song.vercel.app/api?username=Xiaoyang-Song&theme=synthwave&show_icons=true&count_private=true" />
+<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats-deployment-am2maec86-xiaoyang-song.vercel.app/api?username=Xiaoyang-Song&theme=radical&show_icons=true&count_private=true" />
 &nbsp;
 &nbsp;
 <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats-deployment-am2maec86-xiaoyang-song.vercel.app/api/top-langs/?username=Xiaoyang-Song&langs_count=8&layout=compact&theme=highcontrast&hide=jupyter%20notebook,makefile,shaderlab&count_private=true" /></div>
 </div>
 
-[![Xiaoyang's wakatime stats]([https://github-readme-stats.vercel.app](https://github-readme-stats-deployment-am2maec86-xiaoyang-song.vercel.app)/api/wakatime?username=Xiaoyang-Song)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="center">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=xysong25&theme=tokyonight" />
+</p>
 <!---
 Xiaoyang-Song/Xiaoyang-Song is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
