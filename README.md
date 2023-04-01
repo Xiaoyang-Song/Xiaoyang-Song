@@ -10,10 +10,10 @@ If you are interested in contacting me, I can always be reach by email at xs2485
 <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats-deployment-2rddv30i8-xiaoyang-song.vercel.app/api?username=Xiaoyang-Song&theme=radical&show_icons=true&count_private=true" />
 &nbsp;
 &nbsp;
-<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats-deployment-2rddv30i8-xiaoyang-song.vercel.app/api/top-langs/?username=Xiaoyang-Song&langs_count=8&layout=compact&theme=highcontrast&hide=makefile,shaderlab&count_private=true" /></div>
-</div>
-<!-- <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats-deployment-2rddv30i8-xiaoyang-song.vercel.app/api/top-langs/?username=Xiaoyang-Song&langs_count=8&layout=compact&theme=highcontrast&hide=jupyter%20notebook,makefile,shaderlab&count_private=true" /></div>
+<!-- <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats-deployment-2rddv30i8-xiaoyang-song.vercel.app/api/top-langs/?username=Xiaoyang-Song&langs_count=8&layout=compact&theme=highcontrast&hide=makefile,shaderlab&count_private=true" /></div>
 </div> -->
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats-deployment-2rddv30i8-xiaoyang-song.vercel.app/api/top-langs/?username=Xiaoyang-Song&langs_count=8&layout=compact&theme=highcontrast&hide=jupyter%20notebook,html,makefile,shaderlab&count_private=true" /></div>
+</div>
 
 <p align="center">
  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=xysong25&theme=tokyonight&v=2" />
