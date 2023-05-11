@@ -1,6 +1,7 @@
 Hi, I’m Xiaoyang Song. I am currently a Data Science M.S. student at Columbia University. Before coming to Columbia, I received my B.S. degree with double majors in Mathematics and Computer Science from the University of Michigan. During my undergraduate studies, I received rigorous training in computer science, mathematics, and statistics, and have worked with many distinguished faculties from University of Michigan on Natural Language Processing and Distributed Learning research. 
 
 My goal is to research on the cutting‐edge theories and methodologies in the field of computer science, machine learning, statistics, and optimizations and apply them to Transportation, Biology, Manufacturing, Computer Vision (CV), Natural Language Processing (NLP), and other related fields in the industry. I am also deeply interested in Federated Learning and Out‐of‐Distribution Learning, where we made ML models more applicable by protecting the privacy of ML target users and increasing the robustness of ML models, respectively. In the future, I am passionate to explore the field of deep reinforcement learning and its applications. In this september, I will join University of Michigan for my Ph.D. studies in the field of Industrial Engineering and Operation Research (IEOR).
+
 My CV can be found [here](https://github.com/Xiaoyang-Song/Xiaoyang-Song/blob/main/Xiaoyang%20Song%20CV.pdf). (Last Update: 12/2022)
 
 If you are interested in contacting me, I can always be reach by email at xs2485@columbia.edu. 
