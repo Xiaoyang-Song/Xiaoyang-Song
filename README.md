@@ -7,12 +7,12 @@ My CV can be found [**here**](https://github.com/Xiaoyang-Song/Xiaoyang-Song/blo
 If you are interested in contacting me, I can always be reached out by email at xs2485@columbia.edu. <img align="right" src="https://komarev.com/ghpvc/?username=Xiaoyang-Song&color=yellow">
 
 <div class='container'>
-<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats-deployment-2st1eowa1-xiaoyang-song.vercel.app/api?username=Xiaoyang-Song&theme=radical&show_icons=true&count_private=true" />
+<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats-deployment-2st1eowa1-xiaoyang-song.vercel.app/api?username=Xiaoyang-Song&theme=radical&show_icons=true&count_private=true"/>
 &nbsp;
 &nbsp;
 <!-- <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats-deployment-2rddv30i8-xiaoyang-song.vercel.app/api/top-langs/?username=Xiaoyang-Song&langs_count=8&layout=compact&theme=highcontrast&hide=makefile,shaderlab&count_private=true" /></div>
 </div> -->
-<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats-deployment-2st1eowa1-xiaoyang-song.vercel.app/api/top-langs/?username=Xiaoyang-Song&langs_count=8&layout=compact&theme=highcontrast&hide=jupyter%20notebook,html,makefile,shaderlab&count_private=true" /></div>
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats-deployment-2st1eowa1-xiaoyang-song.vercel.app/api/top-langs/?username=Xiaoyang-Song&langs_count=8&layout=compact&theme=highcontrast&count_private=true"/></div>
 </div>
 
 <p align="center">
