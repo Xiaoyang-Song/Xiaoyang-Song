@@ -2,7 +2,7 @@ Hi there :wave:, I’m Xiaoyang Song. I am currently a Data Science M.S. student
 
 As a passionate researcher, my goal is to explore the cutting‐edge theories and methodologies in the field of _Machine Learning (ML)_, _Reinforcement Learning (RL)_, and _mathematics_ and apply them to Computer Vision (CV), Natural Language Processing (NLP), Transportation, Biology, Manufacturing, and other related fields in the industry. I am also deeply interested in Federated Learning and Out‐of‐Distribution Learning, where we made ML models more applicable by protecting the privacy of ML target users and increasing the robustness of ML models, respectively. In this fall, I will join University of Michigan for my Ph.D. studies in the field of [**Industrial Engineering and Operation Research (IEOR)**](https://ioe.engin.umich.edu/). 
 
-My CV can be found [here](https://github.com/Xiaoyang-Song/Xiaoyang-Song/blob/main/Xiaoyang%20Song%20CV.pdf). (Last Update: 12/2022)
+My CV can be found [**here**](https://github.com/Xiaoyang-Song/Xiaoyang-Song/blob/main/Xiaoyang%20Song%20CV.pdf). (Last Update: 12/2022)
 
 If you are interested in contacting me, I can always be reached out by email at xs2485@columbia.edu. <img align="right" src="https://komarev.com/ghpvc/?username=Xiaoyang-Song&color=yellow">
 
