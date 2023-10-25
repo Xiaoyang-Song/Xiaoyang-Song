@@ -4,7 +4,7 @@ As a passionate researcher, my goal is to explore the cutting‐edge theories an
 
 My CV can be found [**here**](https://github.com/Xiaoyang-Song/Xiaoyang-Song/blob/main/Xiaoyang%20Song%20CV.pdf). (Last Update: 12/2022)
 
-If you are interested in contacting me, I can always be reached by email at xs2485@columbia.edu. <img align="right" src="https://komarev.com/ghpvc/?username=Xiaoyang-Song&color=yellow">
+If you are interested in contacting me, I can always be reached by email at xysong@umich.edu. <img align="right" src="https://komarev.com/ghpvc/?username=Xiaoyang-Song&color=yellow">
 
 <div class='container'>
 <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats-deployment-dypnb9v0k-xiaoyang-song.vercel.app/api?username=Xiaoyang-Song&theme=radical&show_icons=true&count_private=true" />
